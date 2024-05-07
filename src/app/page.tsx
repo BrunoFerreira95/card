@@ -20,7 +20,7 @@ export default function Home() {
               </td>
               <td >
                 <Button type="button" variant={"link"}>
-                  <Link href={'https://www.brunopedraca.com/'}>
+                  <Link target="_blank" href={'https://www.brunopedraca.com/'}>
                     Acessar
                   </Link>
                 </Button>
@@ -34,7 +34,7 @@ export default function Home() {
               </td>
               <td>
                 <Button type="button" variant={"link"}>
-                  <Link href={'https://www.youtube.com/channel/UCHRGbdD1Vj0IFTt9bksGnFA'}>
+                  <Link target="_blank" href={'https://www.youtube.com/channel/UCHRGbdD1Vj0IFTt9bksGnFA'}>
                     Acessar
                   </Link>
                 </Button>
@@ -48,7 +48,7 @@ export default function Home() {
               </td>
               <td>
                 <Button type="button" variant={"link"}>
-                  <Link href={'https://www.youtube.com/channel/UCJ2I7-_MHE1npy9zqxMGR-w'}>
+                  <Link target="_blank" href={'https://www.youtube.com/channel/UCJ2I7-_MHE1npy9zqxMGR-w'}>
                     Acessar
                   </Link>
                 </Button>
@@ -62,7 +62,7 @@ export default function Home() {
               </td>
               <td>
                 <Button type="button" variant={"link"}>
-                  <Link href={'https://www.youtube.com/channel/UCOJ379K6MWESuQ41u46vEGw'}>
+                  <Link target="_blank" href={'https://www.youtube.com/channel/UCOJ379K6MWESuQ41u46vEGw'}>
                     Acessar
                   </Link>
                 </Button>
